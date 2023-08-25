@@ -1,0 +1,12 @@
+import Car from './car.svg'
+import Email from './email.svg'
+import Google from './google.svg'
+import Fb from './fb.svg'
+import Twitter from './twitter.svg'
+import Lock from './lock.svg'
+import User from './user.svg'
+import Eye from '../Svgs/eye.svg'
+import Eyes from '../Svgs/eyes.svg'
+import Check from '../Svgs/check.svg'
+import UnCheck from '../Svgs/uncheck.svg'
+export {Car,Email,Google,Fb,Twitter,Lock,User,Eye,Eyes,Check,UnCheck}
