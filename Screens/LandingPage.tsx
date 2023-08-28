@@ -32,7 +32,7 @@ const LandingPage = () => {
   const [check, Setcheck] = useState(false);
   const [email, setEmail] = useState('');
   const [username, setUsername] = useState('');
-  const [emailError, setEmailError] = useState('');
+  const [, setEmailError] = useState('');
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
   const [modalVisible, setModalVisible] = useState(false);
